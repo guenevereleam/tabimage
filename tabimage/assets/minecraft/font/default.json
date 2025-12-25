@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/pixel_banner_0",
+      "height": 72,
+      "ascent": 72,
+      "chars": [
+        "\uE000"
+      ]
+    }
+  ]
+}
