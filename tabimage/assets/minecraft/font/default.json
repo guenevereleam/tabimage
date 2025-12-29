@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "minecraft:font/pixel_banner_0",
+      "file": "minecraft:textures/Pixel_Banner_0",
       "height": 72,
       "ascent": 72,
       "chars": [""],
